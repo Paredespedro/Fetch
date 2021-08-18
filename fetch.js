@@ -15,7 +15,7 @@ if(post.completed == true){
     postitle.classList.add("false");
 }
 postitle.appendChild(title);
-postSection.appendChild(createElement);
+postSection.appendChild(postitle);
 
 
    });

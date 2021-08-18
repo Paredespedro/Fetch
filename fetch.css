@@ -1,0 +1,17 @@
+.true{
+    border:blue 2px solid;
+    border-radius: 5px;
+    background-color:azure;
+    color: blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.false{
+    border: red 2px solid;
+    border-radius: 5px;
+    background-color: rgb(223, 162, 156);
+    color: red;
+    text-align: center;
+    font-family: Times;
+    
+}
